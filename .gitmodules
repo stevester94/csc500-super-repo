@@ -1,0 +1,3 @@
+[submodule "csc500-dataset-downloader"]
+	path = csc500-dataset-downloader
+	url = https://github.com/stevester94/csc500-dataset-downloader.git
