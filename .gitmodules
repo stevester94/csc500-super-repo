@@ -7,3 +7,6 @@
 [submodule "csc500-dataset-utils"]
 	path = csc500-dataset-utils
 	url = https://github.com/stevester94/csc500-dataset-utils.git
+[submodule "csc500-examples"]
+	path = csc500-examples
+	url = https://github.com/stevester94/csc500-examples.git

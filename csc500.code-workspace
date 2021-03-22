@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "csc500-dataset-preprocessor"
+		},
+		{
+			"path": "csc500-examples"
+		},
+		{
+			"path": "csc500-dataset-utils"
+		},
+		{
+			"path": "csc500-dataset-downloader"
+		}
+	],
+	"settings": {}
+}
