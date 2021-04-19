@@ -1,1 +1,3 @@
-placeholder
+csc500-examples/helloworld.py is a good entry point for how this project works
+
+To get vscode to pick up the python modules, just source the .env before launching vscode
