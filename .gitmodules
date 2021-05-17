@@ -10,3 +10,6 @@
 [submodule "csc500-utils"]
 	path = csc500-utils
 	url = https://github.com/stevester94/csc500-utils.git
+[submodule "csc500-past-runs"]
+	path = csc500-past-runs
+	url = https://github.com/stevester94/csc500-past-runs.git
