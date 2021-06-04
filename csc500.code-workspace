@@ -11,6 +11,9 @@
 		},
 		{
 			"path": "csc500-utils"
+		},
+		{
+			"path": "csc500-cida"
 		}
 	],
 	"settings": {}

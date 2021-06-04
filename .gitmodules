@@ -13,3 +13,6 @@
 [submodule "csc500-past-runs"]
 	path = csc500-past-runs
 	url = https://github.com/stevester94/csc500-past-runs.git
+[submodule "csc500-cida"]
+	path = csc500-cida
+	url = https://github.com/stevester94/csc500-cida.git
