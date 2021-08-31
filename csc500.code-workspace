@@ -17,6 +17,9 @@
 		},
 		{
 			"path": "csc500-models"
+		},
+		{
+			"path": "csc500-past-runs"
 		}
 	],
 	"settings": {}
