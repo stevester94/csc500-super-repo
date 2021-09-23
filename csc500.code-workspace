@@ -20,6 +20,9 @@
 		},
 		{
 			"path": "csc500-past-runs"
+		},
+		{
+			"path": "csc500-experiments"
 		}
 	],
 	"settings": {}
