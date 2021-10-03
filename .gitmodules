@@ -22,3 +22,6 @@
 [submodule "csc500-experiments"]
 	path = csc500-experiments
 	url = https://github.com/stevester94/csc500-experiments.git
+[submodule "csc500-dataset-utils"]
+	path = csc500-dataset-utils
+	url = https://github.com/stevester94/csc500-dataset-utils.git
