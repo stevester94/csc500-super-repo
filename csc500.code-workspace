@@ -23,6 +23,9 @@
 		},
 		{
 			"path": "csc500-experiments"
+		},
+		{
+			"path": "CSC275_HW1"
 		}
 	],
 	"settings": {}
