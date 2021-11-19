@@ -20,6 +20,15 @@
 		},
 		{
 			"path": "csc500-past-runs"
+		},
+		{
+			"path": "csc500-experiments"
+		},
+		{
+			"path": "CSC275_HW1"
+		},
+		{
+			"path": "csc500-dataset-utils"
 		}
 	],
 	"settings": {}

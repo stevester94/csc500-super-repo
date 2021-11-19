@@ -19,3 +19,12 @@
 [submodule "csc500-models"]
 	path = csc500-models
 	url = https://github.com/stevester94/csc500-models.git
+[submodule "csc500-experiments"]
+	path = csc500-experiments
+	url = https://github.com/stevester94/csc500-experiments.git
+[submodule "csc500-dataset-utils"]
+	path = csc500-dataset-utils
+	url = https://github.com/stevester94/csc500-dataset-utils.git
+[submodule "CSC275_HW1"]
+	path = CSC275_HW1
+	url = https://github.com/stevester94/CSC275_HW1.git
