@@ -13,3 +13,9 @@
 [submodule "csc500-dataset-utils"]
 	path = csc500-dataset-utils
 	url = https://github.com/stevester94/csc500-dataset-utils.git
+[submodule "csc500-drivers"]
+	path = csc500-drivers
+	url = https://github.com/stevester94/csc500-drivers.git
+[submodule "csc500-homenet-experiments"]
+	path = csc500-homenet-experiments
+	url = https://github.com/stevester94/csc500-homenet-experiments.git
