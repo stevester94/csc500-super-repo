@@ -1,21 +1,9 @@
-[submodule "csc500-dataset-downloader"]
-	path = csc500-dataset-downloader
-	url = https://github.com/stevester94/csc500-dataset-downloader.git
-[submodule "csc500-dataset-preprocessor"]
-	path = csc500-dataset-preprocessor
-	url = https://github.com/stevester94/csc500-dataset-preprocessor.git
 [submodule "csc500-examples"]
 	path = csc500-examples
 	url = https://github.com/stevester94/csc500-examples.git
 [submodule "csc500-utils"]
 	path = csc500-utils
 	url = https://github.com/stevester94/csc500-utils.git
-[submodule "csc500-past-runs"]
-	path = csc500-past-runs
-	url = https://github.com/stevester94/csc500-past-runs.git
-[submodule "csc500-cida"]
-	path = csc500-cida
-	url = https://github.com/stevester94/csc500-cida.git
 [submodule "csc500-models"]
 	path = csc500-models
 	url = https://github.com/stevester94/csc500-models.git
@@ -25,6 +13,3 @@
 [submodule "csc500-dataset-utils"]
 	path = csc500-dataset-utils
 	url = https://github.com/stevester94/csc500-dataset-utils.git
-[submodule "CSC275_HW1"]
-	path = CSC275_HW1
-	url = https://github.com/stevester94/CSC275_HW1.git
