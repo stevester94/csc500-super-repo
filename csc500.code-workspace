@@ -1,34 +1,25 @@
 {
 	"folders": [
 		{
-			"path": "csc500-dataset-preprocessor"
-		},
-		{
 			"path": "csc500-examples"
-		},
-		{
-			"path": "csc500-dataset-downloader"
 		},
 		{
 			"path": "csc500-utils"
 		},
 		{
-			"path": "csc500-cida"
-		},
-		{
 			"path": "csc500-models"
-		},
-		{
-			"path": "csc500-past-runs"
 		},
 		{
 			"path": "csc500-experiments"
 		},
 		{
-			"path": "CSC275_HW1"
+			"path": "csc500-dataset-utils"
 		},
 		{
-			"path": "csc500-dataset-utils"
+			"path": "csc500-homenet-experiments"
+		},
+		{
+			"path": "csc500-drivers"
 		}
 	],
 	"settings": {}
