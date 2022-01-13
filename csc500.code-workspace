@@ -20,6 +20,9 @@
 		},
 		{
 			"path": "csc500-drivers"
+		},
+		{
+			"path": "csc500-dataset-preprocessor"
 		}
 	],
 	"settings": {}
