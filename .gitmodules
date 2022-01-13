@@ -19,3 +19,6 @@
 [submodule "csc500-homenet-experiments"]
 	path = csc500-homenet-experiments
 	url = https://github.com/stevester94/csc500-homenet-experiments.git
+[submodule "csc500-dataset-preprocessor"]
+	path = csc500-dataset-preprocessor
+	url = https://github.com/stevester94/csc500-dataset-preprocessor.git
